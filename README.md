@@ -1,3 +1,2 @@
 # Python-API-Dev
-# Hello
 
